@@ -85,7 +85,3 @@ In the screenshot, you can see the options for uploading an audio file, recordin
 - **OpenAI Whisper** for providing a state-of-the-art speech-to-text model.
 - **Gradio** for creating an intuitive interface to demo the project.
 - Contributors and the open-source community for guidance and support.
-
-## Result
-
-
