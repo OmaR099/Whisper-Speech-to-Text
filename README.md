@@ -30,8 +30,8 @@ The following Whisper models are implemented in this project:
 - **Base**: Low resource requirements for simple applications.
 - **Small**: Lightweight model for faster execution with reasonable accuracy.
 - **Medium**: Balanced performance and resource utilization.
-- **Turbo**: Optimized version of large-v3 that offers faster transcription speed with minimal degradation in accuracy.
 - **Large v3**: High accuracy with more resource requirements.
+- **Turbo**: Optimized version of **Large-v3** that offers faster transcription speed with minimal degradation in accuracy.
 
 ![image](https://github.com/user-attachments/assets/8d4ae623-bdb3-4f60-ac7d-d7bcd3940139)
 
