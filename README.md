@@ -4,14 +4,15 @@ This project implements a Speech-to-Text (STT) system utilizing OpenAI's Whisper
 
 Additionally, it features a user-friendly interface using Gradio, allowing users to test the model by either uploading audio files or recording audio directly through a microphone. The system supports many languages but focuses on English and Arabic audio inputs.
 
+<img src="https://github.com/user-attachments/assets/1756e5d1-080f-4eb7-a088-4ec1abf64866" alt="image" width="850" height="850" />
+
 ## Table of Contents  
 
 - [Features](#features)
 - [Models](#models)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Results](#results)
 - [Acknowledgements](#acknowledgements)
 
 ## Features  
@@ -70,8 +71,21 @@ This will start a local server. Open the provided URL in your web browser to acc
 **Record Audio:** Use the microphone button to record audio directly from your device.
 **Transcribe**: Once the audio is uploaded or recorded, the system will automatically transcribe the speech into text.
 
+## Results
+
+The Gradio interface provides an intuitive way to interact with the speech-to-text system. Users can seamlessly switch between uploading audio files or recording live audio. Below is a screenshot of the Gradio interface during a test session.
+
+![image](https://github.com/user-attachments/assets/5a50becd-a223-4667-bf57-ba4c74167e89)
+
+
+In the screenshot, you can see the options for uploading an audio file, recording audio, and the resulting transcribed text displayed in the interface after processing the audio input. The transcription is generated in real time, allowing for immediate feedback.
+
 ## Acknowledgements
 
 - **OpenAI Whisper** for providing a state-of-the-art speech-to-text model.
 - **Gradio** for creating an intuitive interface to demo the project.
 - Contributors and the open-source community for guidance and support.
+
+## Result
+
+
