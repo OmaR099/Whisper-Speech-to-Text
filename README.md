@@ -75,8 +75,7 @@ This will start a local server. Open the provided URL in your web browser to acc
 
 The Gradio interface provides an intuitive way to interact with the speech-to-text system. Users can seamlessly switch between uploading audio files or recording live audio. Below is a screenshot of the Gradio interface during a test session.
 
-![image](https://github.com/user-attachments/assets/5a50becd-a223-4667-bf57-ba4c74167e89)
-
+![image](https://github.com/user-attachments/assets/850dd64e-c9b9-4193-b511-a17a6aa9a7c0)
 
 In the screenshot, you can see the options for uploading an audio file, recording audio, and the resulting transcribed text displayed in the interface after processing the audio input. The transcription is generated in real time, allowing for immediate feedback.
 
